@@ -1,0 +1,28 @@
+body {
+    background-color:#D8D2F4; /* Fundo roxo escuro */
+    color: #050505; /* Cor do texto */
+}
+
+
+.card {
+    background-color: #563d7c; /* Cor do card roxo escuro */
+    color: #ffffff; /* Cor do texto dentro do card */
+    margin-bottom: 20px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.btn-lg {
+background-color: #563d7c;
+}
+
+
+.mais{
+
+    text-align: center;
+}
+
+
+
